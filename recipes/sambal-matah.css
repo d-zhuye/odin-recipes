@@ -1,0 +1,50 @@
+head, 
+body {
+    background: hsla(58,100%,91%,0.1);
+    font-family: "Monaco", "Courier New","Lucida Console";
+}
+
+body {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+h1 {
+    background: hsla(0, 0%, 0%, 1);
+    color: white;
+    font-weight: bolder;
+    padding-top: 15px;
+    padding-bottom: 10px;
+    text-align: center;
+    font-size: 40px;
+}
+
+h2 {
+    text-align: center;
+    font-size: 30px;
+}
+
+img {
+    display: block;
+    width: 40%;
+    height: auto;
+    text-align: center;
+    margin: auto;
+}
+
+#main {
+    display: block;
+    margin: 5%;
+}
+
+h3 {
+    font-size: 25px;
+    font-weight: bolder;
+    background: hsla(75, 73%, 59%, 0.51);
+    padding: 5px;
+}
+
+#homeIcon{
+    width:30px;
+    height: auto;
+    text-align: left;
+}
